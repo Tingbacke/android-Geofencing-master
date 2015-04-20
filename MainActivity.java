@@ -24,7 +24,9 @@ package com.example.android.wearable.geofencing;
  * https://github.com/googlesamples/android-Geofencing
  *
  * DON'T KNOW IF ANYTHING HAPPENS WHEN "RUNNING"
- *
+ */
+
+/* - These are markers which I added in project WearMap.
  * mMap.addMarker(new MarkerOptions().position(new LatLng(55.61015,12.9786)).title("Cykelpump Kockums Torg"));
  * mMap.addMarker(new MarkerOptions().position(new LatLng(55.5877, 12.9887)).title("Cykelpump Malmö gamla stadion"));
  * mMap.addMarker(new MarkerOptions().position(new LatLng(55.6093, 12.9967)).title("Cykelpump, Anna Linds plats"));
@@ -53,17 +55,6 @@ package com.example.android.wearable.geofencing;
  * mMap.addMarker(new MarkerOptions().position(new LatLng(55.6171, 12.9744)).title("Scaniabadet, Västra Hamnen"));
  */
 
-/*
-import static com.example.android.wearable.geofencing.Constants.ANDROID_BUILDING_ID;
-import static com.example.android.wearable.geofencing.Constants.ANDROID_BUILDING_LATITUDE;
-import static com.example.android.wearable.geofencing.Constants.ANDROID_BUILDING_LONGITUDE;
-import static com.example.android.wearable.geofencing.Constants.ANDROID_BUILDING_RADIUS_METERS;
-
-import static com.example.android.wearable.geofencing.Constants.YERBA_BUENA_ID;
-import static com.example.android.wearable.geofencing.Constants.YERBA_BUENA_LATITUDE;
-import static com.example.android.wearable.geofencing.Constants.YERBA_BUENA_LONGITUDE;
-import static com.example.android.wearable.geofencing.Constants.YERBA_BUENA_RADIUS_METERS;
-*/
 import static com.example.android.wearable.geofencing.Constants.CONNECTION_FAILURE_RESOLUTION_REQUEST;
 import static com.example.android.wearable.geofencing.Constants.CYKELPUMP_KOCKUMS_ID;
 import static com.example.android.wearable.geofencing.Constants.CYKELPUMP_KOCKUMS_LATITUDE;

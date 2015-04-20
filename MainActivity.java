@@ -23,6 +23,8 @@ package com.example.android.wearable.geofencing;
  * EXAMPLE CODE FROM:
  * https://github.com/googlesamples/android-Geofencing
  *
+ * DON'T KNOW IF ANYTHING HAPPENS WHEN "RUNNING"
+ *
  * mMap.addMarker(new MarkerOptions().position(new LatLng(55.61015,12.9786)).title("Cykelpump Kockums Torg"));
  * mMap.addMarker(new MarkerOptions().position(new LatLng(55.5877, 12.9887)).title("Cykelpump Malmö gamla stadion"));
  * mMap.addMarker(new MarkerOptions().position(new LatLng(55.6093, 12.9967)).title("Cykelpump, Anna Linds plats"));
